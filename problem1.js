@@ -15,4 +15,4 @@ var multiples = function(max){
 };
 
 multiples(userNumber)
-alert(sum);
+alert("The answer is: " + sum);
